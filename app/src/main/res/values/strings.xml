@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Village</string>
+    <string name="homepage_desc">MASANDRA HELP CENTER</string>
+    <string name="pick_language">SELECT LANGUAGE</string>
+    <string name="hospital">HOSPITAL</string>
+    <string name="transport">ಸಾರಿಗೆ</string>
+    <string name="bus_name">ಬಸ್ ಹೆಸರು ಮತ್ತು ಸಮಯ</string>
+
+    <string name="education">EDUCATION</string>
+    <string name="call_ambulance">CALL AMBULANCE</string>
+    <string name="location_info">LOCATION/INFO</string>
+    <string name="east_point_hospital">EAST POINT HOSPITAL</string>
+    <string name="varthur_government_hospital">VARTHUR GOVERNMENT HOSPITAL</string>
+    <string name="seegehalli_government_hospital">SEEGEHALLI GOVERNMENT HOSPITAL</string>
+    <string name="east_point_location">ನಂ.113, ಬಿಧರಹಳ್ಳಿ, ವರ್ಗೋನಗರ, ಬೆಂಗಳೂರು - 560049, ಈಸ್ಟ್ ಪಾಯಿಂಟ್ ಕಾಲೇಜು ಹತ್ತಿರ.</string>
+    <string name="varthur_location">ಎಸ್‌ಎಚ್ 35, ವರ್ತೂರ್, ಕರ್ನಾಟಕ 560087.</string>
+    <string name="seegehalli_location">Krishnarajapura, Bengaluru, Karnataka, Bengaluru, Karnataka 560049</string>
+    <string name="timings"> ---- ಬೆಳಿಗ್ಗೆ 9.30 ಕ್ಕೆ ತೆರೆಯುತ್ತದೆ ----"\n"
+        
+        "\n"ಸೋಮವಾರ ಬೆಳಿಗ್ಗೆ 9.30 AM - 4.30 PM "\n"
+        ಮಂಗಳವಾರ ಬೆಳಿಗ್ಗೆ 9.30 AM - 4.30 PM "\n"
+        ಬುಧವಾರ ಬೆಳಿಗ್ಗೆ 9.30 AM - 4.30 PM "\n"
+        ಗುರುವಾರ ಬೆಳಿಗ್ಗೆ 9.30 AM - 4.30 PM "\n"
+        ಶುಕ್ರವಾರ ಬೆಳಿಗ್ಗೆ 9.30 AM - 4.30 PM "\n"
+        ಶನಿವಾರ ಬೆಳಿಗ್ಗೆ 9.30 AM - 4.30 PM "\n"
+        ಭಾನುವಾರ ಮುಚ್ಚಲಾಗಿದೆ
+
+    </string>
+    <string name="east_point_info"></string>
+    <string name="information">ಮಾಹಿತಿ:</string>
+    <string name="timings_tag">ಸಮಯಗಳು:</string>
+    <string name="address">ವಿಳಾಸ: </string>
+    <string name="website">ಜಾಲತಾಣ: </string>
+    <string name="east_point_website"><u> www.epcms.ac.in  </u></string>
+    <string name="emergency">Emergency Services</string>
+    <string name="east_point_emergency_services">ಅಪಘಾತ ಇಲಾಖೆ ಗಡಿಯಾರದ ಸುತ್ತ ಕೆಲಸ ಮಾಡುತ್ತದೆ.
+        ಪ್ರಸೂತಿ ಮತ್ತು ಸ್ತ್ರೀರೋಗ ಶಾಸ್ತ್ರದ ಪ್ರತ್ಯೇಕ ತುರ್ತು ವಿಭಾಗವಿದೆ, ಅದನ್ನು ಕಾರ್ಮಿಕ ಕೋಣೆಗೆ ಜೋಡಿಸಲಾಗಿದೆ.
+        ಅಪಘಾತದಲ್ಲಿ ಸೆಂಟ್ರಲ್ ಆಕ್ಸಿಜನ್ ಸಪ್ಲೈ, ಸೆಂಟ್ರಲ್ ಸಕ್ಷನ್, ಡಿಫಿಬ್ರಿಲೇಟರ್, ಪಲ್ಸ್ ಆಕ್ಸಿಮೀಟರ್, ಅಂಬು ಬ್ಯಾಗ್, ವಿಪತ್ತು ಟ್ರಾಲಿ ಮತ್ತು ಕ್ರ್ಯಾಶ್ ಕಾರ್ಟ್‌ಗಳನ್ನು ಹೊಂದಿರುವ 10 ಹಾಸಿಗೆಗಳಿವೆ.
+        ಇದು ಸಣ್ಣ ಆಪರೇಷನ್ ಥಿಯೇಟರ್ ಮತ್ತು ಎರಡು ತುರ್ತು ಆಪರೇಷನ್ ಥಿಯೇಟರ್‌ಗಳಿಗೆ ಸಂಪರ್ಕ ಹೊಂದಿದೆ, ಇದು ಅರಿವಳಿಕೆ, ಪುನರುಜ್ಜೀವನ ಮತ್ತು ಶಸ್ತ್ರಚಿಕಿತ್ಸಾ ಸಾಧನಗಳನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಹೊಂದಿದೆ.
+ಗಡಿಯಾರದ ಸುತ್ತ ತುರ್ತು ರೋಗಿಗಳಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸಲು ವಿಕಿರಣಶಾಸ್ತ್ರ ವಿಭಾಗ ಮತ್ತು ಕ್ಲಿನಿಕಲ್ ಪ್ರಯೋಗಾಲಯಗಳನ್ನು ಅಪಘಾತಕ್ಕೊಳಗಾದವರ ಹತ್ತಿರ ಇರಿಸಲಾಗಿದೆ.
+
+</string>
+    <string name="info">Info:-</string>
+    <string name="varthur_info">ಬೆಂಗಳೂರಿನಲ್ಲಿ, ವರ್ತೂರ್ ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆ ರೋಗಿಗಳ ಆರೈಕೆಯಲ್ಲಿ ಗುರುತಿಸಲ್ಪಟ್ಟ ಹೆಸರು.
+        ಇದು ವರ್ತೂರ್‌ನ ಪ್ರಸಿದ್ಧ ಸಾರ್ವಜನಿಕ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ.
+        ರೋಗಿಗಳಿಗೆ ಉತ್ತಮ ಸೇವೆಗಳನ್ನು ನೀಡುವ ದೃಷ್ಟಿಯೊಂದಿಗೆ ಬೆಂಬಲಿತವಾಗಿದೆ ಮತ್ತು ತಾಂತ್ರಿಕವಾಗಿ ಸುಧಾರಿತ ಆರೋಗ್ಯ ಸೌಲಭ್ಯಗಳನ್ನು ಹೊಂದಿದೆ,
+        ಅವರು ಆರೋಗ್ಯ ಉದ್ಯಮದಲ್ಲಿ ಮುಂಬರುವ ಹೆಸರುಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಈ ಆಸ್ಪತ್ರೆ ವರ್ತೂರ್ನಲ್ಲಿದೆ,
+        ಈ ಆಸ್ಪತ್ರೆಯನ್ನು ವಿವಿಧ ಸಾರಿಗೆ ವಿಧಾನಗಳಿಂದ ಸುಲಭವಾಗಿ ಪ್ರವೇಶಿಸಬಹುದು.
+        ಸುಶಿಕ್ಷಿತ ವೈದ್ಯಕೀಯ ಸಿಬ್ಬಂದಿ, ವೈದ್ಯಕೀಯೇತರ ಸಿಬ್ಬಂದಿ ಮತ್ತು ಅನುಭವಿ ಕ್ಲಿನಿಕಲ್ ತಂತ್ರಜ್ಞರ ತಂಡವು ವಿವಿಧ ಸೇವೆಗಳನ್ನು ನೀಡಲು 24 ಗಂಟೆಗಳ ಕಾಲ ಕೆಲಸ ಮಾಡುತ್ತದೆ.
+        ಅವರ ವೃತ್ತಿಪರ ಸೇವೆಗಳು ಅವರನ್ನು ಬೆಂಗಳೂರಿನ ಸಾರ್ವಜನಿಕ ಆಸ್ಪತ್ರೆಗಳ ಬೇಡಿಕೆಯನ್ನಾಗಿ ಮಾಡುತ್ತವೆ.
+        ತಜ್ಞರು ಸೇರಿದಂತೆ ಮಂಡಳಿಯಲ್ಲಿರುವ ವೈದ್ಯರ ತಂಡವು ವಿವಿಧ ರೀತಿಯ ವೈದ್ಯಕೀಯ ಪ್ರಕರಣಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಜ್ಞಾನ ಮತ್ತು ಪರಿಣತಿಯನ್ನು ಹೊಂದಿದೆ.
+</string>
+
+    <string name="seegehalli_address">ಕೃಷ್ಣರಾಜಪುರ, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ 560049.</string>
+    <string name="bus_info">ಬಸ್ ಮಾಹಿತಿ</string>
+    <string name="auto_info">ರಿಕ್ಷಾ ಮಾಹಿತಿ</string>
+
+    <string name="call_afroz"> ಆಫ್ರೋಜ್ ಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="call_baba">ಬಾಬಾಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="call">ಕರೆ ಮಾಡಿ</string>
+
+
+    <string name="cmr_group">ಸಿ ಎಮ್ ಆರ್ ಗ್ರೂಪ್ ಆಫ್ ಇನ್ಸ್ಟಿಟ್ಯೂಷನ್</string>
+    <string name="pre_school">ಪೂರ್ವ ಶಾಲೆ</string>
+    <string name="primary_school">ಪ್ರಾಥಮಿಕ ಶಾಲೆ</string>
+    <string name="secondary_school">ಮಾಧ್ಯಮಿಕ ಶಾಲೆ</string>
+    <string name="time_pre">T.I.M.E ಕಿಡ್ಸ್</string>
+    <string name="time_address">ನಂ 3, ಬಿ, 4 ಎ ಎ ಕ್ರಾಸ್ ರೋಡ್, 2 ನೇ ಬ್ಲಾಕ್, ಆಶಿರ್ವಾಡ್ ಕಾಲೋನಿ, ಹೊರಮಾವು, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ 560043.</string>
+    <string name="time_phone">097394 33600</string>
+    <string name="time_website">https://www.timekidspreschools.in</string>
+
+    <string name="bns_address">ನಾರಾಯಣ ಮಟ್ಟ, ಮಂದೂರು, ಬಿದರಹಳ್ಳಿ ಹೊಬಾಲಿ, # 129/1 ಮುಖ್ಯ ರಸ್ತೆ, ಹಳೆಯ ಬೈಯಪ್ಪನಹಳ್ಳಿ, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ 560049.</string>
+    <string name="bns_website">ಮಾಹಿತಿ ಇಲ್ಲ</string>
+    <string name="bns_phone">098450 19858</string>
+
+    <string name="ghps_address">ಸರ್ಕಾರಿ ಉನ್ನತ ಪ್ರಾಥಮಿಕ ಶಾಲೆ (ಜಿಎಚ್‌ಪಿಎಸ್), ಬೆಂಗಳೂರು, ಮಂಜುನಾಥ ವಿನ್ಯಾಸ, ರಾಮಮೂರ್ತಿ ನಗರ, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ- 560016.</string>
+    <string name="ghps_website">ಮಾಹಿತಿ ಇಲ್ಲ</string>
+    <string name="ghps_phone">ಮಾಹಿತಿ ಇಲ್ಲ</string>
+    <string name="ghs_address">ಜ್ಯೋತಿಪುರ, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ- 562129.</string>
+    <string name="ghs_website">ಮಾಹಿತಿ ಇಲ್ಲ</string>
+    <string name="ghs_phone">ಮಾಹಿತಿ ಇಲ್ಲ</string>
+    <string name="hses_address">ಬೈಪ್ಪನಹಳ್ಳಿ ವಿಸ್ತರಣೆ, ಬೆಂಗಳೂರು, ಕರ್ನಾಟಕ 560038</string>
+    <string name="hses_website">ಮಾಹಿತಿ ಇಲ್ಲ</string>
+    <string name="hses_phone">080-25555252</string>
+
+    <string name="kcet"> ಕೆ.ಸಿ.ಇ.ಟಿ:</string>
+    <string name="kcetlink">https://cetonline.karnataka.gov.in/kea/</string>
+    <string name="jeemains">ಜೆ.ಇ.ಇ ಮುಖ್ಯ:</string>
+    <string name="jeemainslink">https://jeemain.nic.in/</string>
+    <string name="jeeadvanced">ಜೆ.ಇ.ಇ ಸುಧಾರಿತ:</string>
+    <string name="jeeadvancedlink">https://jeeadv.ac.in/</string>
+    <string name="neet">ನೀಟ್:</string>
+    <string name="neetlink">https://ntaneet.nic.in/Ntaneet/Welcome.aspx</string>
+
+    <string name="pu1_address">Virgonagar Post,Mandur,Bengaluru,Karnataka 560049</string>
+    <string name="pu1_website">http://www.narayanaetechnoschools.com/marathahalli</string>
+    <string name="pu1_phone">08028470681</string>
+
+    <string name="pu2_address">Thambu Cheety Palya,Battarahalli,Bengaluru,Karnataka 560049,</string>
+    <string name="pu2_website">http://puc.gardencitycollege.edu</string>
+    <string name="pu2_phone">8066487600</string>
+
+    <string name="epc_address">No 147,Virgonagar Post,Bidharhalli,Cheemasandra,Bengaluru,Karnataka 560049</string>
+    <string name="epc_website">https://www.eastpoint.ac.in</string>
+    <string name="epc_phone">7204229999</string>
+
+    <string name="poly_address">Bengaluru,Karnataka 560049</string>
+    <string name="poly_website">http://www.tespolytechnic.com/</string>
+    <string name="poly_phone">9900008481</string>
+    <string name = "no_website"></string>
+</resources>

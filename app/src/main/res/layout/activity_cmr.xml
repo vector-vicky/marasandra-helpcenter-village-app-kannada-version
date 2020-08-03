@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:src="@drawable/cmrlogomain"/>
+
+
+    <Button
+            android:id="@+id/activity_cmr_cmrit"
+            android:layout_marginTop="60dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:text="ಸಿಎಮ್ಆರ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಟೆಕ್ನಾಲಜಿ"
+            android:textColor="#fff"
+            android:background="@drawable/cmrrectangle"
+        />
+    <Button
+            android:id="@+id/activity_cmr_cmr_university"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cmrrectangle"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="ಸಿಎಂಆರ್ ವಿಶ್ವವಿದ್ಯಾಲಯ"
+            android:textColor="#fff"
+
+        />
+    <Button
+            android:id="@+id/activity_cmr_institute_of_mgmnt"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಸಿಎಮ್ಆರ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಮ್ಯಾನೇಜ್ಮೆಂಟ್ ಸ್ಟಡೀಸ್"
+            android:textColor="#fff"
+
+        />
+    <Button
+            android:id="@+id/activity_cmr_legal"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+        android:background="@drawable/cmrrectangle"
+            android:text="ಸಿಎಮ್ಆರ್ ಯೂನಿವರ್ಸಿಟಿ ಸ್ಕೂಲ್ ಆಫ್ ಲೀಗಲ್ ಸ್ಟಡೀಸ್"
+            android:textColor="#fff"
+
+        />
+
+    <Button
+            android:id="@+id/activity_cmr_skills"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಸಿಎಮ್ಆರ್ ಲೈಫ್ ಸ್ಕಿಲ್ಸ್ ಇನ್ಸ್ಟಿಟ್ಯೂಟ್"
+            android:textColor="#fff"
+
+        />
+        <Button
+            android:id="@+id/activity_cmr_bussiness"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಸಿಎಮ್ಆರ್ ಸೆಂಟರ್ ಫಾರ್ ಬಿಸಿನೆಸ್ ಸ್ಟಡೀಸ್"
+            android:textColor="#fff"
+            />
+
+        <Button
+            android:id="@+id/activity_cmr_ekya_plus_2"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಎಕ್ಯ ಶಾಲೆ  ಐಟಿಪಿಎಲ್ (ಕೆ -12 ಶಾಲೆ)"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_ekya_jpnagar"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cmrrectangle"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="ಎಕ್ಯ ಶಾಲೆ  ಜೆ.ಪಿ.ನಗರ (ಕೆ -12 ಶಾಲೆ)"
+            android:textColor="#fff"
+            />
+
+        <Button
+            android:id="@+id/activity_cmr_ekya_kanakpura"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಎಕ್ಯ ಶಾಲೆ ಕನಕಪುರ ರಸ್ತೆ"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_ekya_btm"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಎಕ್ಯ ಶಾಲೆ ಬಿಟಿಎಂ ಲಾಯೌಟ್"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_pu_colledge"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಸಿಎಂಆರ್ ರಾಷ್ಟ್ರೀಯ ಪಿಯು ಕಾಲೇಜು"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_high_school"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಸಿಎಂಆರ್ ಪ್ರೌಢಶಾಲೆ"
+            android:textColor="#fff"
+            />
+
+        <Button
+            android:id="@+id/activity_cmr_national_public_school"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:background="@drawable/cmrrectangle"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:text="ಸಿಎಂಆರ್ ರಾಷ್ಟ್ರೀಯ ಸಾರ್ವಜನಿಕ ಶಾಲೆ"
+            android:textColor="#fff"
+            />
+        <Button
+            android:id="@+id/activity_cmr_nps_international"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cmrrectangle"
+            android:text="ಎನ್ಪಿಎಸ್ ಇಂಟರ್ನ್ಯಾಷನಲ್ ಸ್ಕೂಲ್, ಸಿಂಗಾಪುರ್"
+            android:textColor="#fff"
+            android:layout_marginBottom="20dp"
+            />
+        <Button
+            android:id="@+id/activity_contact_cmru"
+            android:layout_marginTop="30dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rectangle"
+            android:text="ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
+            android:textColor="#fff"
+            android:layout_marginBottom="20dp"
+
+            />
+
+
+
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.project_village">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="ಮಾರಸಂದ್ರ ಸಹಾಯ ನಿಧಿ"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ExamInfoActivity"></activity>
+        <activity android:name=".ExamActivity" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".CmrInfoActivity" />
+        <activity android:name=".CmrActivity" />
+        <activity android:name=".EducationInfoActivity" />
+        <activity android:name=".CallAutoActivity" />
+        <activity android:name=".SeegehalliGovernmentHospital" />
+        <activity android:name=".VarthurGovernmentHospital" />
+        <activity android:name=".EastPointInfoActivity" />
+        <activity android:name=".BusActivity" />
+        <activity android:name=".HospitalInfoActivity" />
+        <activity android:name=".EducationActivity" />
+        <activity android:name=".TransportActivity" />
+        <activity android:name=".HospitalActivity" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

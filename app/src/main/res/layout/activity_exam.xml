@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/educationbackground"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/kcet"
+        android:background="@drawable/rectangle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="80dp"
+        android:text="ಕೆ.ಸಿ.ಇ.ಟಿ"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/kcet"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="80dp"
+        android:id="@+id/jeemain"
+        android:text="ಜೆ.ಇ.ಇ ಮುಖ್ಯ"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle"
+        android:id="@+id/jeeadvanced"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/jeemain"
+        android:layout_marginTop="80dp"
+        android:text="ಜೆ.ಇ.ಇ ಸುಧಾರಿತ"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle"
+        android:layout_below="@+id/jeeadvanced"
+        android:id="@+id/neet"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="80dp"
+        android:text="ನೀಟ್"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        />
+
+
+</RelativeLayout>
+</ScrollView>

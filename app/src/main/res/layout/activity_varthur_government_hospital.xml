@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/activity_varthur_address_tag"
+            android:layout_width="match_parent"
+            android:textSize="30dp"
+            android:textColor="#000"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/fav"
+            android:textSize="20dp"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/activity_varthur_address"/>
+
+        <TextView
+            android:id="@+id/activity_varthur_info_tag"
+            android:layout_width="match_parent"
+            android:textSize="30dp"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/activity_varthur_info"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

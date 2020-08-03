@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+            android:id="@+id/activity_education_info_address_tag"
+            android:layout_width="match_parent"
+            android:textSize="30dp"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/activity_education_info_address"/>
+
+        <TextView
+            android:id="@+id/activity_education_info_websites_tag"
+            android:layout_width="match_parent"
+            android:textSize="30dp"
+            android:textColor="#000"
+            android:layout_marginLeft="5dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="@color/fav"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/activity_education_info_website"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/activity_education_info_call_button"
+            android:layout_margin="20dp"
+            android:background="@drawable/rectangle"
+            android:textColor="#000"
+            android:hint="call me"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            />
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>
